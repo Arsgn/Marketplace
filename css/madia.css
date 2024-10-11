@@ -1,0 +1,13 @@
+@media (max-width: 1330px) {
+  .creators-block {
+    gap: 10px;
+    padding-block: 40px;
+  }
+  .first {
+    width: 500px;
+  }
+  .categories-block {
+    gap: 10px;
+    padding-block: 40px;
+  }
+}
